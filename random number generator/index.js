@@ -26,5 +26,3 @@ myButton.onclick = function(){
   label2.textContent = randomNum2;
   label3.textContent = randomNum3;
 }
-
-https://github.com/sagniklangal/javascript.git
